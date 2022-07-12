@@ -23,9 +23,9 @@ import json
 with open("config.json","r") as f:
     config = json.loads(f.read())
 
-TOKEN = 2125839096:AAEquwngQspHnA9emK8G_CC6Uh-JszqgYpU
+TOKEN = 5584650829:AAFNMTpBb86yNKlFzpkJOg4vPA5Sb8CL5JM
 WORKERS = 32
-ADMIN_LIST = 1514078508
+ADMIN_LIST = 1610383727
 OPEN_LOBBY = True
 ENABLE_TRANSLATIONS = False
 DEFAULT_GAMEMODE = fast
